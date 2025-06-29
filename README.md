@@ -11,7 +11,7 @@
 - 🔭 I’m working on **ML and Deployment Projects**
 - 🌱 Currently learning **NLP, MLOps & LLMs**
 - 💬 Ask me about **Pandas, scikit-learn, Streamlit**
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+- 📫 Reach me at: [your-email@example.com](mailto:souvikchoudhury582@gmail.com)
 
 ---
 
@@ -41,5 +41,5 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/souvik-choudhury-48a426270/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:souvikchoudhury582@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
