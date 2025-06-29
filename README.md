@@ -11,7 +11,7 @@
 - 🔭 I’m working on **ML and Deployment Projects**
 - 🌱 Currently learning **NLP, MLOps & LLMs**
 - 💬 Ask me about **Pandas, scikit-learn, Streamlit**
-- 📫 Reach me at: [your-email@example.com](mailto:souvikchoudhury582@gmail.com)
+- 📫 Reach me at: [souvikchoudhury582@gmail.com](mailto:souvikchoudhury582@gmail.com)
 
 ---
 
