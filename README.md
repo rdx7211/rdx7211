@@ -2,7 +2,7 @@
 <h3 align="center">💻 Data Science & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=1000&lines=Machine+Learning+%7C+Data+Science+%7C+MLOps+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=1000&lines=Machine+Learning+%7C+Data+Science+%7C+MLOps+%7C+Deep learning" alt="Typing SVG" />
 </p>
 
 ---
