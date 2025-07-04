@@ -9,8 +9,7 @@
 
 ### 🧠 About Me:
 - 🔭 I’m working on **ML and Deployment Projects**
-- 🌱 Currently learning **NLP, MLOps & LLMs**
-- 💬 Ask me about **Pandas, scikit-learn, Streamlit**
+- 🌱 Currently learning **deep learning, MLOps & LLMs**
 - 📫 Reach me at: [souvikchoudhury582@gmail.com](mailto:souvikchoudhury582@gmail.com)
 
 ---
